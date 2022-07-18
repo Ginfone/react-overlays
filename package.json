@@ -1,10 +1,10 @@
 {
-  "name": "react-overlays",
+  "name": "react-overlays-with-fix",
   "version": "5.2.1",
-  "description": "Utilities for creating robust overlay components",
+  "description": "Utilities for creating robust overlay components(fork from react-overlays)",
   "author": {
-    "name": "Jason Quense",
-    "email": "monastic.panic@gmail.com"
+    "name": "Ginfone",
+    "email": "ginfone@gmail.com"
   },
   "repository": {
     "type": "git",
