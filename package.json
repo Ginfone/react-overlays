@@ -47,6 +47,7 @@
     "*.js,*.tsx": "eslint --fix --ext .js,.ts,.tsx"
   },
   "prettier": {
+    "tabWidth": 2,
     "singleQuote": true,
     "trailingComma": "all"
   },

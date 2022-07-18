@@ -104,7 +104,7 @@ function useRefWithUpdate() {
     (element: null | HTMLElement) => {
       ref.current = element;
       // ensure that a menu set triggers an update for consumers
-      forceUpdate();
+      // forceUpdate();
     },
     [forceUpdate],
   );
